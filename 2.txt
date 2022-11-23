@@ -2,3 +2,4 @@ checkout 1
 checkout 2
 checkout 3
 checkout 4
+checkout 6
